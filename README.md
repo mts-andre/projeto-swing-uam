@@ -41,10 +41,3 @@
 <p>
   Esse projeto recebeu <strong>nota máxima</strong> por todos os seus tutores da disciplina de Programação de Soluções Computacionais.
 </p>
-
-<hr>
-
-<strong>
-  Matheus André da Silva
-</strong>
-
