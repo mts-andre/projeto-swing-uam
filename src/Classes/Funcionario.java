@@ -10,9 +10,6 @@ public class Funcionario {
     String senha;
     ArrayList<Funcionario> listaFuncionarios;
     
-    
-    
-    
     public Funcionario(){
         listaFuncionarios = new ArrayList();
     }
